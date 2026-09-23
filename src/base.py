@@ -1,5 +1,5 @@
 """Base class for agent tools.
-
+ 
 Each tool knows how to describe itself to the model (via `to_schema()`)
 and how to execute itself given a dict of validated inputs.
 """
